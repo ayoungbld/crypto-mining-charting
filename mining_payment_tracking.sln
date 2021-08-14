@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mining_payment_tracking", "mining_payment_tracking.pyproj", "{7D954E6E-3CC6-4E03-9437-20D7A818F393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D954E6E-3CC6-4E03-9437-20D7A818F393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D954E6E-3CC6-4E03-9437-20D7A818F393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B60835C9-9079-4C9E-B0A6-A9A61D735635}
+	EndGlobalSection
+EndGlobal
